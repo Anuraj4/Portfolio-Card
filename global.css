@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --font-graduate: Graduate;
+
+    /* font sizes */
+    --font-size-lg: 18px;
+    --font-size-mini: 15px;
+    --font-size-3xs: 10px;
+
+    /* Colors */
+    --color-black: #000;
+    --color-gainsboro: #d9d9d9;
+}
